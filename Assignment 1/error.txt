@@ -1,0 +1,12 @@
+TypeMismatch - ktra khi lấy ra từ stack
+DivideByZero - operand 2 = 0 khi chia
+StackFull - khi push
+StackEmpty - khi pop
+ArrayOutofRange	- khi load/store vào idx ngoài mảng
+UndefinedVariable - load dữ liệu chưa dc lưu vào array
+
+void opStackLoad (const std::string &cmd, const float &data,const int &line);
+
+void opStack (const std::string &cmd,const int &line);
+
+void localArray (const std::string &cmd, const int &ind,const int &line);

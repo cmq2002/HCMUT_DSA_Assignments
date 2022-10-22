@@ -1,0 +1,12 @@
+fconst 0.0
+fneg
+top
+fconst 1.0
+fmul
+top
+iconst 3
+iconst 6
+fconst 2.3
+fstore
+fload
+top

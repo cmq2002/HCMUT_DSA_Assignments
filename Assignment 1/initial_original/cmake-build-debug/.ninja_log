@@ -1,0 +1,5 @@
+# ninja log v5
+7	687	6765706479219334	build.ninja	fecb68877955e5da
+4	1871	6703540430492433	CMakeFiles/initial_original.dir/main.cpp.obj	b60ee478213fd67b
+26	1896	6703540430772474	CMakeFiles/initial_original.dir/StackFrame.cpp.obj	d3a9be4b43ac3280
+1897	3232	6703540444104084	initial_original.exe	1f197ad98d2bc082
